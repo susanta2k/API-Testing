@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="22" started-at="2019-07-22T10:03:30Z" finished-at="2019-07-22T10:03:30Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="22" started-at="2019-07-22T10:03:30Z" finished-at="2019-07-22T10:03:30Z">
+      <class name="com.hcs.client.TestNG">
+        <test-method status="PASS" signature="bSuites()[pri:0, instance:com.hcs.client.TestNG@59fa1d9b]" name="bSuites" is-config="true" duration-ms="7" started-at="2019-07-22T10:03:30Z" finished-at="2019-07-22T10:03:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bSuites -->
+        <test-method status="PASS" signature="bTest()[pri:0, instance:com.hcs.client.TestNG@59fa1d9b]" name="bTest" is-config="true" duration-ms="0" started-at="2019-07-22T10:03:30Z" finished-at="2019-07-22T10:03:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bTest -->
+        <test-method status="PASS" signature="bClass()[pri:0, instance:com.hcs.client.TestNG@59fa1d9b]" name="bClass" is-config="true" duration-ms="0" started-at="2019-07-22T10:03:30Z" finished-at="2019-07-22T10:03:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bClass -->
+        <test-method status="PASS" signature="test()[pri:0, instance:com.hcs.client.TestNG@59fa1d9b]" name="test" duration-ms="4" started-at="2019-07-22T10:03:30Z" finished-at="2019-07-22T10:03:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="bMethod()[pri:0, instance:com.hcs.client.TestNG@59fa1d9b]" name="bMethod" is-config="true" duration-ms="0" started-at="2019-07-22T10:03:30Z" finished-at="2019-07-22T10:03:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bMethod -->
+        <test-method status="PASS" signature="aMethod()[pri:0, instance:com.hcs.client.TestNG@59fa1d9b]" name="aMethod" is-config="true" duration-ms="0" started-at="2019-07-22T10:03:30Z" finished-at="2019-07-22T10:03:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aMethod -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.hcs.client.TestNG@59fa1d9b]" name="test1" duration-ms="1" started-at="2019-07-22T10:03:30Z" finished-at="2019-07-22T10:03:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="bMethod()[pri:0, instance:com.hcs.client.TestNG@59fa1d9b]" name="bMethod" is-config="true" duration-ms="0" started-at="2019-07-22T10:03:30Z" finished-at="2019-07-22T10:03:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bMethod -->
+        <test-method status="PASS" signature="aMethod()[pri:0, instance:com.hcs.client.TestNG@59fa1d9b]" name="aMethod" is-config="true" duration-ms="0" started-at="2019-07-22T10:03:30Z" finished-at="2019-07-22T10:03:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aMethod -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:com.hcs.client.TestNG@59fa1d9b]" name="test2" duration-ms="1" started-at="2019-07-22T10:03:30Z" finished-at="2019-07-22T10:03:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="bMethod()[pri:0, instance:com.hcs.client.TestNG@59fa1d9b]" name="bMethod" is-config="true" duration-ms="0" started-at="2019-07-22T10:03:30Z" finished-at="2019-07-22T10:03:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bMethod -->
+        <test-method status="PASS" signature="aMethod()[pri:0, instance:com.hcs.client.TestNG@59fa1d9b]" name="aMethod" is-config="true" duration-ms="1" started-at="2019-07-22T10:03:30Z" finished-at="2019-07-22T10:03:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aMethod -->
+        <test-method status="PASS" signature="aClass()[pri:0, instance:com.hcs.client.TestNG@59fa1d9b]" name="aClass" is-config="true" duration-ms="0" started-at="2019-07-22T10:03:30Z" finished-at="2019-07-22T10:03:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aClass -->
+        <test-method status="PASS" signature="aTest()[pri:0, instance:com.hcs.client.TestNG@59fa1d9b]" name="aTest" is-config="true" duration-ms="0" started-at="2019-07-22T10:03:30Z" finished-at="2019-07-22T10:03:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aTest -->
+        <test-method status="PASS" signature="aSuites()[pri:0, instance:com.hcs.client.TestNG@59fa1d9b]" name="aSuites" is-config="true" duration-ms="1" started-at="2019-07-22T10:03:30Z" finished-at="2019-07-22T10:03:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aSuites -->
+      </class> <!-- com.hcs.client.TestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
